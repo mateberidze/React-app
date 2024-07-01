@@ -84,7 +84,7 @@
 import React, { useContext, useEffect, useState } from 'react';
 import { addOnsText } from '../constants';
 import { checkmarkIcon } from '../assets/images';
-import { Button } from "./index";
+import { Button } from "../constants/index";
 import { Context } from './Hero';
 import { Link } from 'react-router-dom';
 
