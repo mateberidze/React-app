@@ -2,7 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
-/* fonts */
+/* fonts */npm install -D tailwindcss
+npx tailwindcss init
 @font-face {
     font-family: 'Ubuntu-Bold';
     src: url(./assets/fonts/Ubuntu-Bold.ttf);
@@ -155,6 +156,7 @@ html{
     border: 1px solid var(--primary-200);    
 
 }
+
 
 
 .header--hero{
